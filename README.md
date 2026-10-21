@@ -1,4 +1,4 @@
-# gramatica-espanola
+# Gramática
 
 Skills para agentes de IA en español.
 
@@ -13,13 +13,13 @@ Skills para agentes de IA en español.
 Con [skills.sh](https://skills.sh):
 
 ```sh
-npx skills add finisterre-cloud/gramatica-espanola
+npx skills add finisterre-cloud/gramatica
 ```
 
 Para instalar solo una skill:
 
 ```sh
-npx skills add finisterre-cloud/gramatica-espanola --skill gramatica-espanola
+npx skills add finisterre-cloud/gramatica --skill gramatica-espanola
 ```
 
 ## Estructura
