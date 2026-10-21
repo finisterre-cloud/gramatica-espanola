@@ -1,11 +1,11 @@
-# skills-es
+# gramatica-espanola
 
 Skills para agentes de IA en español.
 
 ## Skills
 
-| Skill | Descripción |
-| --- | --- |
+| Skill                                                      | Descripción                                                                                                               |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | [`gramatica-espanola`](skills/gramatica-espanola/SKILL.md) | Normas de ortografía, puntuación, gramática y estilo del español (RAE y ASALE) para escribir, traducir y corregir textos. |
 
 ## Instalación
@@ -13,13 +13,13 @@ Skills para agentes de IA en español.
 Con [skills.sh](https://skills.sh):
 
 ```sh
-npx skills add JuanM04/skills-es
+npx skills add finisterre-cloud/gramatica-espanola
 ```
 
 Para instalar solo una skill:
 
 ```sh
-npx skills add JuanM04/skills-es --skill gramatica-espanola
+npx skills add finisterre-cloud/gramatica-espanola --skill gramatica-espanola
 ```
 
 ## Estructura
