@@ -1,6 +1,6 @@
 # Estilo, calcos y anglicismos
 
-Los modelos de lenguaje y las traducciones tienden a trasladar estructuras del inglés al español. Esta referencia reúne los calcos más frecuentes y su alternativa natural.
+Los modelos de lenguaje y las traducciones tienden a trasladar estructuras del inglés al español y a repetir muletillas. Esta referencia reúne los calcos y tics más frecuentes y su alternativa natural.
 
 ## Falsos amigos
 
@@ -90,6 +90,27 @@ La pasiva perifrástica sigue siendo válida cuando interesa destacar al pacient
 - Si no hay equivalente o el término técnico es el habitual en el campo (_software, framework, commit, frontend_), úsalo en cursiva (o como código si es un identificador). Los adaptados por la RAE van en redonda y con ortografía española: _wifi, clic, escáner, estándar, bloguero, tuit, eslogan_.
 - Verbos derivados: preferir las formas asentadas (_chatear, clicar/cliquear, escanear, formatear, tuitear_) y evitar las innecesarias (_forwardear_ → _reenviar_; _matchear_ → _coincidir_; _setear_ → _configurar, establecer_).
 - Nombres de marcas, productos y comandos se escriben como en el original, sin cursiva: _GitHub, npm, Docker_.
+
+## Muletillas de texto generado
+
+Los lectores reconocen enseguida ciertos tics de los textos escritos por modelos de lenguaje y los critican con frecuencia. Cada uno es válido usado una vez; repetido, vuelve el texto artificial. Escribe con afirmaciones directas y concretas, y varía la estructura de las oraciones.
+
+| Tic | Ejemplo | Alternativa |
+| --- | --- | --- |
+| Falsa oposición para enfatizar | _No se trata de velocidad, se trata de confianza._ / _No es un error, es una oportunidad._ | Afirma directamente: _Lo que importa es la confianza._ Resérvala para cuando alguien realmente sostiene X. |
+| _No solo... sino también..._ en serie | _No solo mejora el rendimiento, sino que también..._ en cada párrafo | Coordina con _y_ o separa en dos oraciones. |
+| Tríadas automáticas | _rápido, seguro y escalable_; _claro, conciso y efectivo_ | Menciona solo los atributos que aportan información, sean uno, dos o cuatro. |
+| Pregunta retórica con respuesta | _¿El resultado? Un éxito rotundo._ / _¿Por qué importa? Porque..._ | _El resultado fue un éxito._ |
+| Frase final dramática | _Y eso lo cambia todo._ / _Ahí está la clave._ | Termina con el último dato relevante. |
+| Dos puntos de suspenso | _La clave: la constancia._ / _La verdad: nadie lo sabe._ | _La clave es la constancia._ |
+| Abuso de la raya | varios incisos con raya por párrafo, o raya donde basta una coma | Comas o paréntesis para incisos breves; raya solo para incisos marcados, como mucho uno por párrafo. |
+| Aperturas grandilocuentes | _En el mundo actual..._, _En la era digital..._, _En un mundo cada vez más conectado..._, _Imagina..._ | Empieza por la información. |
+| Vocabulario inflado | _crucial, fundamental, clave, potenciar, desbloquear, robusto, sin fisuras, integral, sinergia, panorama, ecosistema, adentrarse en, sumergirse en, navegar las complejidades, aprovechar el poder de, llevar al siguiente nivel, un viaje, un testimonio de, un tapiz de_ | La palabra simple y precisa: _importante, mejorar, permitir, sólido, completo_; o nada. |
+| Fórmulas de relleno | _Cabe destacar que..._, _Es importante señalar que..._, _Vale la pena mencionar que..._, _juega un papel crucial_ | Di directamente lo que se iba a destacar. |
+| Entusiasmo de asistente | _¡Claro!_, _¡Excelente pregunta!_, _¡Por supuesto!_, _Espero que esto te sea útil._ | Responde sin preámbulo ni despedida. |
+| Resumen innecesario | _En resumen,..._ / _En conclusión,..._ al final de un texto breve | Omítelo; resume solo textos largos. |
+| Cautela excesiva | _podría potencialmente ayudar a mejorar en cierta medida_ | Un solo matiz cuando haya incertidumbre real: _puede mejorar_. |
+| Formato excesivo | negritas en cada oración, viñetas para ideas que forman un razonamiento, emojis en títulos | Prosa para razonar, listas para elementos paralelos, negrita solo para lo que el lector no debe pasar por alto. |
 
 ## Texto técnico y de interfaz
 

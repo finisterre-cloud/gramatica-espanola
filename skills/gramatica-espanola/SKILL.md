@@ -54,10 +54,11 @@ Gramática ([detalle](references/gramatica.md)):
 - Pronombres: _lo/la_ para el complemento directo, _le_ para el indirecto (_la llamé_, _le dije_).
 - _Se lo_ (no _se los_) cuando el plural es del complemento indirecto: _Se lo expliqué a ellos_.
 
-Estilo y calcos ([detalle](references/calcos.md)):
+Estilo y calcos ([detalle](references/estilo.md)):
 
 - Verbos y sustantivos con su significado en español, no el del inglés: _darse cuenta_ (no _realizar_), _en realidad_ (no _actualmente_), _postularse_ (no _aplicar_), _biblioteca_ (no _librería_) para _library_.
 - Voz activa o pasiva refleja antes que la pasiva con _ser_: _Se actualizó el archivo_ mejor que _El archivo fue actualizado_.
 - Artículo, no posesivo, con partes del cuerpo y objetos propios: _Levantó la mano_.
 - Sin coma antes de la _y_ final de una enumeración simple: _rojo, verde y azul_.
+- Afirmaciones directas, sin muletillas de texto generado: _No se trata de X, se trata de Y_, tríadas automáticas, preguntas retóricas con respuesta, vocabulario inflado (_crucial, potenciar, sin fisuras_).
 - Extranjerismos crudos en cursiva (_software_, _backend_); los adaptados, en redonda (wifi, clic, escáner). Los identificadores de código van en formato de código.
